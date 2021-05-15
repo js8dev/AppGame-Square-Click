@@ -82,8 +82,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid #ccc;
-    background: #ccc;
+    border: 1px solid rgb(77, 195, 224);
+    background: rgb(110, 247, 240);
     min-height: 300px;
     min-width: 300px;
     max-width: 300px;
