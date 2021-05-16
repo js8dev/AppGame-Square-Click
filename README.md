@@ -1,4 +1,4 @@
-# My first app game
+# My app game Square Click
 
 JS + HTML + CSS
 
